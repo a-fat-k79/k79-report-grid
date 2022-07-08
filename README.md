@@ -9,19 +9,19 @@ Grid++Report是一款报表开发工具，是给程序员用来开发软件中�
 #### 使用方法
 1.首先需要下载锐浪报表开发者安装包（ http://www.rubylong.cn/gridreport/download.htm ）。
 
-![安装软件](https://github.com/a-fat-k79/IMG/blob/master/k79-report-grid/%E9%94%90%E6%B5%AA%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6.jpg)
+![安装软件](https://a-fat-k79.github.io/IMG/k79-report-grid/%E9%94%90%E6%B5%AA%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6.jpg)
 
 2.参考”Grid++Report报表模板例子“，使用”Grid++Report 报表设计器“ 设计报表模板。
 
 3.使用本程序渲染数据，生成报表。
 
-![数据渲染过程图](https://github.com/a-fat-k79/IMG/blob/master/k79-report-grid/%E6%95%B0%E6%8D%AE%E6%B8%B2%E6%9F%93.jpg)
+![数据渲染过程图](https://a-fat-k79.github.io/IMG/k79-report-grid/%E6%95%B0%E6%8D%AE%E6%B8%B2%E6%9F%93.jpg)
 
 ****
 
 #### 目录简介
 
-![](https://github.com/a-fat-k79/IMG/blob/master/k79-report-grid/%E7%9B%AE%E5%BD%95.jpg)
+![](https://a-fat-k79.github.io/IMG/k79-report-grid/%E7%9B%AE%E5%BD%95.jpg)
 
 - bin 目录下面为不同系统的库文件，**需要添加到环境变量中**
 - grfDir 模板文件夹，存放模板
@@ -34,8 +34,8 @@ Grid++Report是一款报表开发工具，是给程序员用来开发软件中�
 
 1.使用maven打包，生成k79-report-grid-0.0.1.jar。
 
-![](https://github.com/a-fat-k79/IMG/blob/master/k79-report-grid/maven%E6%89%93%E5%8C%85.jpg)
+![](https://a-fat-k79.github.io/IMG/k79-report-grid/maven%E6%89%93%E5%8C%85.jpg)
 
 2.运行jar文件,访问首页。可以测试自己环境是否配置正确，也可以下载测试用例。
 
-![](https://github.com/a-fat-k79/IMG/blob/master/k79-report-grid/%E4%B8%BB%E9%A1%B52.jpg)
+![](https://a-fat-k79.github.io/IMG/k79-report-grid/%E4%B8%BB%E9%A1%B52.jpg)
